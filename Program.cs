@@ -45,7 +45,6 @@ namespace TheLift
                     wagons[i] += currWagonFree;
                     LiftFreeCapacity -= currWagonFree;
                     // currWagonFree -= currWagonFree;
-
                     continue;
                 }
                 else  //countPeople == currWagonFree
